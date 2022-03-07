@@ -1,2 +1,4 @@
 #!/bin/bash
-echo "\"(Ôo) 
+echo '"(Ôo)'\' EOL
+#!/bin/bash 
+echo '"(Ôo)'\'
